@@ -1,2 +1,2 @@
-# fish-friends-or-food
+# Fish: Friends or Food
 A fishing RPG.
