@@ -1,7 +1,7 @@
 # Fish: Friends or Food
 A fishing RPG made in Python and Pygame.
-## Installing / Getting started
-Install the Pygame library.
+## Getting started
+Requires `Pygame`.
 ```
-pip install pygame
+git clone https://github.com/ehk123/fish-friends-or-food.git
 ```
